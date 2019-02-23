@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "be.ap.javadv.recap.Main",
+            "projectName": "Rec1"
+        }
+    ]
+}
